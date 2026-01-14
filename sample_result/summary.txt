@@ -1,0 +1,8 @@
+{
+  "mean": [[...], [...], value],
+  "variance": [[...], [...], value],
+  "standard_deviation": [[...], [...], value],
+  "max": [[...], [...], value],
+  "min": [[...], [...], value],
+  "sum": [[...], [...], value]
+}
